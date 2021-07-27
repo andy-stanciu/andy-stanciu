@@ -1,4 +1,4 @@
-#About Me
+# About Me
 Most of my work is private. I have experience with .NET, ASP.NET, ReactJS & TS, Java, Python, HTML & CSS, and SQL.
 
 See my stats below. The languages are not very representative of what I spend most time in, as most of my code is private.
